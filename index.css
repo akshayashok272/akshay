@@ -25,7 +25,8 @@
     
     background-size: cover; 
     
-}col-2{
+}
+.col-2{
     background-color:white;
     
     background-size: cover;
@@ -50,7 +51,7 @@ button:hover{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
 } */
-img{
+.img{
     height:300px ;
     width:450px ;
 }
@@ -95,7 +96,7 @@ color: black;
    
     
 }
-h1{
+.h1{
     color:rgb(16, 15, 15);
 }
 .top{
