@@ -1,0 +1,177 @@
+
+body{
+    background-color:rgb(24, 111, 79); 
+  } 
+  .bkg{
+    background-color: #2a5a3b;
+    /* background-color:(50deg,#2a5a3b,#1e4886); */
+    border-color:rgb(24, 111, 79) ;
+  }
+  .bkg:hover{
+    background-color:rgb(76, 134, 76);
+    /* background-color:(; */
+    border-color:rgb(24, 111, 79) ;
+  }
+.but{border-color: rgb(100, 100, 208);
+    background-color:#2a5a3b ;
+    color: white;
+}
+.but:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.im1{
+    height: 200px;
+}
+.c1{
+    height: 500px;
+   
+    align-items: center;
+    ;
+}
+.c2{
+    text-align:left; 
+}
+#pic1{
+    height: 70px;
+    width: 200px;
+}
+#pic2{
+    height: 440px;
+    width: 480px;
+}
+
+@media(max-width:500px){
+.p4{
+    font-size: small;
+}}
+button{
+    border-radius: 20px;
+    background-color: blueviolet;
+    color:white;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+}
+h1{
+    color: black;
+}
+.row1{
+    height: 100px;
+    text-align: center;
+}
+
+.he{
+    height: 200px;
+}
+.he2{
+    height: 400px;
+}
+.he3{
+    height: 300px;
+}
+.row3{
+    height: 500px;
+    text-align: center;
+}
+.nav-item{
+    color: black;
+}
+
+.row4{
+    height: 80px;
+    text-align: center;
+}
+.fa-brands{
+    color: white;
+}
+.row5{
+    /* background-image: url("./images/22DTC-10-Oct-LTO-Moka-Batak-Blend-HERO-IMAGE-LAYERED-2560x1180.avif");  */
+    background-color:rgb(24, 111, 79) ;
+      height:700px;
+     
+     display:flex;
+  
+     justify-content:center;
+     
+     align-items: center;
+}
+.row5:hover{
+    box-shadow: 0 4px 8px 0 rgba(106, 6, 6, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.coll1{
+    height: 400px;
+    width: 300px;
+    border: solid 2px rgb(24, 111, 79);
+    text-align:left;
+    border-radius: 10px;
+    background-color:rgb(11, 90, 86) ;
+    /* padding-left: 40px;
+    padding-right: 40px; */
+}
+.coll1:hover{
+    box-shadow: 0 4px 8px 0 rgba(106, 6, 6, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.coll2{
+    height: 400px;
+    width: 400px;
+    border: solid 2px rgb(24, 111, 79);
+    text-align:left;
+    border-radius: 10px;
+    background-color:#2a5a3b ;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.coll2:hover{
+    
+    box-shadow: 0 4px 8px 0 rgba(106, 6, 6, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.coll3:hover{
+    height:150px; 
+    width:500px ;
+    box-shadow: 0 4px 8px 0 rgba(106, 6, 6, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+   
+}
+.row6{
+    height: 400px;
+    display:flex;
+  
+    justify-content:left;
+    
+    align-items: center;
+}
+.row6:hover{
+    box-shadow: 0 4px 8px 0 rgba(106, 6, 6, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#im3{
+    height: 400px;
+    width: 300px;
+}
+.co1{
+    color:black;
+}
+.coll3{
+    margin-top: 100px;
+height: 100px;
+width: 500px;
+border: solid 2px rgb(24, 111, 79);
+text-align:left;
+border-radius: 10px;
+/* background-color:rgb(11, 90, 86) ; */
+background-color:rgb(24, 111, 79);
+padding-left: 40px;
+padding-right: 40px;}
+.eff:hover{
+    font-size: x-large;
+    box-shadow: 0 4px 8px 0 rgba(106, 6, 6, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.tx:hover{
+    font-size: x-large;
+}
+#tx1:hover
+{
+   font-size: xx-large;
+}
